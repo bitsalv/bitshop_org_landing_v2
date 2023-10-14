@@ -44,6 +44,6 @@ features:
     bulletpoints:
     button:
       enable: true
-      label: "Send an email!"
+      label: "Send an email"
       link: "mailto:hello@bitshop.org"
 ---
