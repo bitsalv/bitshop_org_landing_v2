@@ -1,4 +1,10 @@
 {
+  {
+    "redirects": [
+      { "source": "form.bitshop.org", "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/", "permanent": true }
+    ]
+  }
+
   "builds": [
     {
       "src": "vercel-build.sh",

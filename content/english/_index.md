@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "help us!"
-    link: "https://form.bitshop.org"
+    link: "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/"
 
 # Features
 features:
