@@ -11,6 +11,19 @@
   
     "redirects": [
       { "source": "/form", "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/", "permanent": true }
+    ],
+
+    "rewrites" : [
+      {
+        "source": "/",
+        "has": [
+          {
+            "type": "host",
+            "value": "form.bitshop.org"
+          }
+        ],
+        "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/"
+      }
     ]
   
 }
