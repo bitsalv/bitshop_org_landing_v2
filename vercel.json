@@ -22,6 +22,7 @@
             "value": "form.bitshop.org"
           }
         ],
+        "permanent": true,
         "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/"
       }
     ]
