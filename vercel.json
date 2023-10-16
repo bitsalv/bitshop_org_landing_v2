@@ -15,14 +15,13 @@
 
     "rewrites" : [
       {
-        "source": "/",
         "has": [
           {
             "type": "host",
             "value": "form.bitshop.org"
           }
         ],
-        "destination": "/form"
+        "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/"
       }
     ]
   
