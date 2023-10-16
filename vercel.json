@@ -15,6 +15,7 @@
 
     "rewrites" : [
       {
+        "source": "/*",
         "has": [
           {
             "type": "host",
