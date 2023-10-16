@@ -10,7 +10,7 @@
   ],
   
     "redirects": [
-      { "source": "/form", "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/", "permanent": false }
+      { "source": "/form", "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/", "permanent": f }
     ],
 
     "rewrites" : [
