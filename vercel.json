@@ -9,8 +9,8 @@
     }
   ],
   
-    "redirects": []
-      { "source": "/form", "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/", "permanent": true }
+    "redirects": [
+      { "source": "/form", "destination": "docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/", "permanent": true }
     ]
   
 }
