@@ -7,10 +7,5 @@
         "distDir": "public"
       }
     }
-  ],
-  
-    "redirects": [
-      { "source": "https://form.bitshop.org", "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/", "permanent": true }
-    ]
-  
+  ]  
 }
