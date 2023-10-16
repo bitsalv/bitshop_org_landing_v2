@@ -15,7 +15,7 @@
 
     "rewrites" : [
       {
-        "source": "/:path*",
+        "source": "/",
         "has": [
           {
             "type": "host",
