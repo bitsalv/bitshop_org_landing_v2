@@ -10,19 +10,13 @@
   ],
   
     "redirects": [
+      { "source": "/", "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/", "permanent": true },
       { "source": "/form", "destination": "https://docs.google.com/forms/d/1gjUFOvNS-35djtsNUn-eFFHGktdzKNtntFRjhZgpH2Y/", "permanent": true}
     ],
 
     "rewrites" : [
       {
         "source": "/:path*",
-        "has": [
-          {
-            "type": "host",
-            "value": "form.bitshop.org"
-          }
-        ],
-        "permanent": false,
         "destination": "/form"
       }
     ]
