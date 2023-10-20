@@ -22,7 +22,6 @@
             "value": "form.bitshop.org"
           }
         ],
-        "permanent": false,
         "destination": "/form"
       }
     ]
